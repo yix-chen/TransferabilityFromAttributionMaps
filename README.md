@@ -1,6 +1,6 @@
 # Deep Model Transferbility from Attribution Maps
 
-- [*"Paper: Deep Model Transferbility from Attribution Maps"*](https:), NeurIPS 2019.(released soon)
+- [*"Paper: Deep Model Transferbility from Attribution Maps"*](https://arxiv.org/pdf/1909.11902.pdf), NeurIPS 2019.
 
   J. Song, Y. Chen, X. Wang, C. Shen, M. Song
 
